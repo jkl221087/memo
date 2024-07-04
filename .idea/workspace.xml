@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0b21f23-e37b-4314-9275-f25ec7bfb8f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d0b21f23-e37b-4314-9275-f25ec7bfb8f7" name="Changes" comment="k" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,6 @@
     "Application.com.example.memowebapp.DatabaseConnection.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/javafx/Memowebapp",
     "project.structure.last.edited": "Global Libraries",
@@ -72,7 +69,7 @@
       <recent name="com.example.memowebapp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainUI">
+  <component name="RunManager" selected="Application.LoginUI">
     <configuration name="DatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DatabaseConnection" />
       <module name="Memowebapp" />
@@ -159,15 +156,7 @@
       <option name="project" value="LOCAL" />
       <updated>1720119111283</updated>
     </task>
-    <task id="LOCAL-00002" summary="k">
-      <option name="closed" value="true" />
-      <created>1720119670032</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1720119670032</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +172,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kk" />
-    <MESSAGE value="k" />
-    <option name="LAST_COMMIT_MESSAGE" value="k" />
+    <option name="LAST_COMMIT_MESSAGE" value="kk" />
   </component>
 </project>
